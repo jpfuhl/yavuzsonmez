@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="749" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="783" class="">
     <defs>
         <style/>
     </defs>
@@ -1295,13 +1295,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.006791436545" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="277.006791436545" y="0" width="121.71269100915283" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="398.71948244569785" y="0" width="35.677582404714975" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="434.3970648504128" y="0" width="13.248082590113386" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.64514744052616" y="0" width="8.586678636248315" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.2318260767745" y="0" width="2.655002829765227" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="458.88682890653973" y="0" width="1.113171093460315" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.2854932025428" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="281.2854932025428" y="0" width="118.79107640294278" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="400.0765696054856" y="0" width="34.82117092450179" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="434.89774052998735" y="0" width="12.930073093497773" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.82781362348516" y="0" width="8.49446441751387" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.322278040999" y="0" width="2.59127163638961" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="458.91354967738863" y="0" width="1.0864503226113664" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1341,6 +1341,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">yavuzsonmez/Libft</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#b47bbb3</span>
+                                        <span class="message">4 commit</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1411,19 +1430,6 @@
                                     <div class="content">
                       Created new
                       branch  <span class="code">main</span> in  <span class="repo">yavuzsonmez/mc</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      repository  <span class="repo">yavuzsonmez/mc</span>
                     </div>
                                 </div>
                             </section>
