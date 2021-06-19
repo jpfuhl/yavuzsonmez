@@ -1209,7 +1209,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            51 Commits
+            52 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1295,13 +1295,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.5086543968292" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="305.5086543968292" y="0" width="102.78448677222518" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="408.2931411690543" y="0" width="30.1291670271807" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="438.422308196235" y="0" width="11.187801029216057" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.6101092254511" y="0" width="7.207726124700773" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="456.8178353501519" y="0" width="2.242108862876943" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="459.0599442130288" y="0" width="0.9400557869712289" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.7863176856703" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="305.7863176856703" y="0" width="102.59975487978416" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.38607256545447" y="0" width="30.075016656658963" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="438.46108922211346" y="0" width="11.167693484573055" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.62878270668654" y="0" width="7.194771865463548" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.82355457215004" y="0" width="2.238079178765022" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="459.06163375091506" y="0" width="0.938366249084912" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1341,6 +1341,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">yavuzsonmez/Libft</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#0dbcc12</span>
+                                        <span class="message">libft</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1402,25 +1421,6 @@
                       Created new
                       repository  <span class="repo">yavuzsonmez/mc</span>
                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yavuzsonmez/ysblog</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4405803</span>
-                                        <span class="message">test</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
