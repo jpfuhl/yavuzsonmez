@@ -1473,14 +1473,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.40340038278134" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="320.40340038278134" y="0" width="74.90529547660795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.3086958593893" y="0" width="23.688798252149066" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="418.99749411153834" y="0" width="17.33678488741061" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="436.334278998949" y="0" width="9.260900865647756" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.59517986459673" y="0" width="8.829356270114207" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.42453613471093" y="0" width="5.246613037141833" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6711491718528" y="0" width="0.32885082814722283" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.485640367414" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="320.485640367414" y="0" width="74.86116682042437" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.3468071878384" y="0" width="23.674842565480727" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="419.02164975331914" y="0" width="17.326571336889817" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="436.34822109020894" y="0" width="9.255445028278048" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.603666118487" y="0" width="8.82415466688059" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.4278207853676" y="0" width="5.2435221210541085" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6713429064217" y="0" width="0.32865709357827605" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1524,6 +1524,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">yavuzsonmez/FdF</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a8f65fc</span>
+                                        <span class="message">update</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1575,25 +1594,6 @@
                                     <div class="commit">
                                         <span class="sha">#ddd310c</span>
                                         <span class="message">update</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yavuzsonmez/FdF</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#86fa538</span>
-                                        <span class="message">test</span>
                                     </div>
                                 </div>
                             </section>
