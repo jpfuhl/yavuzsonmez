@@ -3,7 +3,7 @@
 - 💻 I am software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> which is a part of the <a target="_blank" href="https://42.fr/en/network-42/">42 Network</a>.
 42 is challenging the traditional learning model and provide an industry-leading education in technology. Currently, the school's project im working on is <a target="_blank" href="https://github.com/yavuzsonmez/Cub3d">"Cub3d"</a>, a small wolfenstein-3d like fps made with Raycasting.
 
-- :zap: In my free time, I actually work on <a target="_blank" href="https://github.com/yavuzsonmez/Hxcker-Dojo-Discord-Bot">a discord bot</a> (nodejs/discordjs), & <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> (gatsbyjs/graphql).
+- :zap: In my free time, I actually work on <a target="_blank" href="https://github.com/yavuzsonmez/Hxcker-Dojo-Discord-Bot">a discord bot</a> (nodejs/discordjs), & a <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> (gatsbyjs/graphql).
 
 - :telescope: I work to become a web-application, security oriented, backend-developer, mainly with javascript technologies.
 
