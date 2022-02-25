@@ -1,11 +1,11 @@
-<h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
+<h2 align="center">Hello my name is Yavuz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
 
-- 💻 I’m student at 42 Heilbronn which is a part of the 42 Network. 42 is challenging the traditional learning model and provide an industry-leading education in technology.
+- 💻 I am software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> which is a part of the <a target="_blank" href="https://42.fr/en/network-42/">42 Network</a>.
+42 is challenging the traditional learning model and provide an industry-leading education in technology. Currently, the school's project im working on is <a target="_blank" href="https://github.com/yavuzsonmez/Cub3d">"Cub3d"</a>, a small wolfenstein-3d fps made with Raycasting.
 
-- :telescope: I am working to become a web-application, security oriented, backend-developer.
+- :zap: In my free time, I actually work on <a target="_blank" href="https://github.com/yavuzsonmez/Hxcker-Dojo-Discord-Bot">a discord bot</a> (nodejs/discordjs), & <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> (gatsbyjs/graphql).
 
-- :zap: In my free time, I am currently working on two side projects, a discord bot with nodejs and the discord api, and a personnal website/blog with gatsbyjs and graphql.
-
+- :telescope: I work to become a web-application, security oriented, backend-developer, mainly with javascript technologies.
 
 <br><h2 align="center">Languages and Tools :hammer_and_wrench: </h2><br>
 
@@ -27,11 +27,14 @@
 
 <div align="center">
 	<div>
-		<a href="https://www.linkedin.com/in/yavuz-sonmez/">
-			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		<a target="_blank" href="https://www.linkedin.com/in/yavuz-sonmez/">
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 		</a>
-		<a href="https://twitter.com/yavuzsonmez_">
-			<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+		<a target="_blank" href="mailto:contact@yavuzsonmez.com">
+			<img src="https://img.shields.io/badge/Mail-grey?logo=gmail&logoColor=white&style=for-the-badge" alt="Mail Badge"/>
+		</a>
+		<a target="_blank" href="https://twitter.com/yavuzsonmez_">
+			<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 		</a>
 		</div>
 		<br>
