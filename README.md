@@ -1,7 +1,7 @@
 <h2 align="center">Hello my name is Yavuz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2>
 
 - 💻 I am **software engineer student** at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> which is a part of the <a target="_blank" href="https://42.fr/en/network-42/">42 Network</a>.
-**42 is challenging the traditional learning model and provide an industry-leading education in technology**. Currently, the school's project im Learning <a target="_blank" href="https://github.com/yavuzsonmez/CPP-Modules">C++ and the OOP paradigm</a>.
+**42 is challenging the traditional learning model and provide an industry-leading education in technology**. Currently, im Learning <a target="_blank" href="https://github.com/yavuzsonmez/CPP-Modules">C++ and the OOP paradigm</a>.
 
 - :zap: In my free time, I actually work on <a target="_blank" href="https://github.com/yavuzsonmez/Hxcker-Dojo-Discord-Bot">a discord bot</a> (nodejs/discordjs), & a <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> (gatsbyjs/graphql).
 
