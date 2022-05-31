@@ -5,7 +5,7 @@
 
 - :zap: In my free time, I am working on algorithmic and data structure problems by reading books and practicing with C++ on <a target="_blank" href="https://leetcode.com/yavuzsonmez/">LeetCode</a>, and training my skills on web application security related topics. I am also building a <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> with Gatsbyjs and graphQL.
 
-- :telescope: I work to become a **web-application, security oriented, backend-developer**.
+- :telescope: I work to become a **security oriented, backend-developer**.
 
 <br><h2 align="center">Languages and Tools :hammer_and_wrench: </h2><br>
 
