@@ -3,9 +3,9 @@
 <!-- <h2 align="center">Hello my name is Yavuz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h2> --> 
 
 - 💻 I am **software engineer student** at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a> which is a part of the <a target="_blank" href="https://42.fr/en/network-42/">42 Network</a>.
-**42 is challenging the traditional learning model and provide an industry-leading education in technology**. Currently, I am<a target="_blank" href="https://github.com/yavuzsonmez/Inception"> setting up a multi - container infrastructure</a> with docker-compose.
+**42 is challenging the traditional learning model and provide an industry-leading education in technology**. Recently, I've been<a target="_blank" href="https://github.com/yavuzsonmez/Inception"> setting up a multi - container infrastructure</a> with docker-compose and I'm currently working on re-implementing a nginx-like http server in C++98 using unix sockets.
 
-- :zap: In my free time, I am working on algorithmic and data structure problems by reading books and practicing with C++, and training my skills on web application security related topics. I am also building a <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> with Gatsbyjs and graphQL.
+- :zap: In my free time, I am working on algorithmic and data structure problems by reading books and practicing with C++, and training my skills on web application security related topics. I am also building a <a target="_blank" href="https://github.com/yavuzsonmez/yavuzsonmez.com">personnal website/blog</a> with GatsbyJS and GraphQL.
 
 - :telescope: I work to become a **security oriented, backend-developer**.
 
